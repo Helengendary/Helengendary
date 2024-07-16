@@ -1,4 +1,4 @@
-<h2 align="left">Oie! Helena</h2>
+<h2 align="left">Hi! I'm Helena ;)</h2>
 
 ###
 
@@ -23,6 +23,4 @@
   </a>
 </div>
 
-###
-![Snake animation](https://github.com/Helengendary/Helengendary/blob/output/github-contribution-grid-snake.svg)
 ###
